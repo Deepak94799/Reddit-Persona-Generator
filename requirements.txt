@@ -1,0 +1,6 @@
+praw
+transformers
+torch
+python-dotenv
+tk
+fpdf
